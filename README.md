@@ -1,1 +1,1 @@
-[https://sglombicki.github.io/MHSCTF-Writeup/mhsctf.html](https://sglombicki.github.io/MHSCTF-Writeup/mhsctf.html)
+[https://ladderlogix.github.io/MHSCTF-Writeup/mhsctf.html](https://ladderlogix.github.io/MHSCTF-Writeup/mhsctf.html)
